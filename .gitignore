@@ -1,5 +1,8 @@
-# Cache objects
-packer_cache/
+# common
+/.idea
+.DS_Store
+/vendor
+composer.lock
 
 # For built boxes
 *.box
