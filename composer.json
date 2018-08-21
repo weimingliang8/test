@@ -1,0 +1,14 @@
+{
+    "name": "weimingliang8/test",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wml",
+            "email": "weimingliang8@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
